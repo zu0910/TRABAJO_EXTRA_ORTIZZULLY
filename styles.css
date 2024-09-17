@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#title{
+    text-align: center;
+    padding: 3rem;
+    font-size: 2rem;
+    font-family:fantasy;
+}
+p{
+    text-align: center;
+}
+#contenido{
+    width: 80rem;
+    margin: 2rem auto;
+}
+input{
+    width: 50rem;
+    height: 2rem;
+    border-radius: 40%
+}
